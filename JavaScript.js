@@ -49,7 +49,7 @@ photo = `<img src="img/red.jpg">`
 }
 
 if(order=="white"){
-photo = `<img src="img/white2.jpg">`
+photo = `<img width="1500px" hight="500" src="img/white2.jpg">`
 }
 //document.write ="test";
 var number = prompt("what is the number of flower bouquet you want ");
